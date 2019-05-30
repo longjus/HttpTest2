@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HttpTest", "HttpTest2.vcxproj", "{FAB97ECB-7004-4B56-8A3E-232D69D131CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TinyXml", "inc\TinyXml\TinyXml.vcxproj", "{9820E96F-E458-4CBD-975B-2841C04AA46E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB97ECB-7004-4B56-8A3E-232D69D131CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAB97ECB-7004-4B56-8A3E-232D69D131CD}.Debug|x86.Build.0 = Debug|Win32
+		{FAB97ECB-7004-4B56-8A3E-232D69D131CD}.Release|x86.ActiveCfg = Release|Win32
+		{FAB97ECB-7004-4B56-8A3E-232D69D131CD}.Release|x86.Build.0 = Release|Win32
+		{FAB97ECB-7004-4B56-8A3E-232D69D131CD}.Template|x86.ActiveCfg = Release|Win32
+		{FAB97ECB-7004-4B56-8A3E-232D69D131CD}.Template|x86.Build.0 = Release|Win32
+		{9820E96F-E458-4CBD-975B-2841C04AA46E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9820E96F-E458-4CBD-975B-2841C04AA46E}.Debug|x86.Build.0 = Debug|Win32
+		{9820E96F-E458-4CBD-975B-2841C04AA46E}.Release|x86.ActiveCfg = Release|Win32
+		{9820E96F-E458-4CBD-975B-2841C04AA46E}.Release|x86.Build.0 = Release|Win32
+		{9820E96F-E458-4CBD-975B-2841C04AA46E}.Template|x86.ActiveCfg = Template|Win32
+		{9820E96F-E458-4CBD-975B-2841C04AA46E}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2299FFFE-7461-4817-820A-14F81B35FD86}
+	EndGlobalSection
+EndGlobal
